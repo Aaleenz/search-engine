@@ -18,4 +18,3 @@ LICENSE: License information for the project.
 # contributions:
 Tooba arshad
 Asma riaz
-Aaleen Zainab
